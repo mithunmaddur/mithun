@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JB40MVCApp2/WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar&apos; to &apos;mysql.jar&apos;" description="Rename resource &apos;mysql-connector-java-5.0.8-bin.jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" name="mysql.jar" stamp="1395196114692" updateReferences="true"/>
+</session>
